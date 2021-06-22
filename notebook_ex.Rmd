@@ -3,6 +3,12 @@ title: "R Notebook Phil & Nicholas"
 output: html_notebook
 ---
 
+Notes:
+https://www.pharmasug.org/proceedings/2021/AP/PharmaSUG-2021-AP-204.pdf
+https://colorado.rstudio.com/rsc/Transitioning_R_FDA_Submissions/Transitioning_R_FDA_Submissions.html#1
+https://dreamrs.github.io/esquisse/articles/shiny-usage.html
+https://docs.rstudio.com/connect/user/git-backed/
+
 Import Procedure
 Here I am importing some data.
 
