@@ -8,6 +8,7 @@ Here I am importing some data.
 
 ```{r}
 library(tidyverse)
+library(haven)
 
 airline <- read_sas("http://www.principlesofeconometrics.com/sas/airline.sas7bdat", NULL)
 golf <- read_sas("http://www.principlesofeconometrics.com/sas/golf.sas7bdat", NULL)
